@@ -3,4 +3,5 @@ Things that help me (and maybe you) navigate this increasingly sudden/scary/star
 Some days its the Desdriata, other days it Dunne&Raby.
 
 These are texts: machines to think with.
+
 [BioPunkManifesto](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/BioPunkManifesto.html)
