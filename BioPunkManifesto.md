@@ -1,5 +1,5 @@
 
-#Biopunk Manifesto#
+# Biopunk Manifesto
 Scientific literacy is necessary for a functioning society in the modern age. Scientific literacy is not science education. 
 A person educated in science can understand science; a scientifically literate person can do science. 
 Scientific literacy empowers everyone who possesses it to be active contributors to their own health care, 
