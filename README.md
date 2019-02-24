@@ -7,3 +7,21 @@ These are texts: machines to think with.
 [BioPunkManifesto](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/BioPunkManifesto.html)
 
 [CityAsThinkingMachine](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/CityAsThinkingMachine.html)
+
+[CriticalDesignFAQ](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/CriticalDesignFAQ.html)
+
+[Desiderata.md](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/Desiderata.html)	
+
+[FiveThingstoFreeYourselfFrom](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/FiveThingstoFreeYourselfFrom.html)
+
+[IKnowYou](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/IKnowYou.hml)
+
+[NeilDiamond_BlueJeans](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/NeilDiamond_BlueJeans.html)
+
+[PrayerOfSaintFrancis](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/PrayerOfSaintFrancis.html)
+
+[RestrainedDesign](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/RestrainedDesign.html)
+
+[TheChain](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/TheChain.html)
+
+[TheFourAgreements](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/TheFourAgreements.html)
