@@ -5,3 +5,4 @@ Some days its the Desdriata, other days it Dunne&Raby.
 These are texts: machines to think with.
 
 [BioPunkManifesto](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/BioPunkManifesto.html)
+[CityAsThinkingMachine](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/CityAsThinkingMachine.html)
