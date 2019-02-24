@@ -10,7 +10,7 @@ These are texts: machines to think with.
 
 [CriticalDesignFAQ](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/CriticalDesignFAQ.html)
 
-[Desiderata.md](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/Desiderata.html)	
+[Desiderata](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/Desiderata.html)	
 
 [FiveThingstoFreeYourselfFrom](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/FiveThingstoFreeYourselfFrom.html)
 
