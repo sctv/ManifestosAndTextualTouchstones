@@ -25,3 +25,6 @@ These are texts: machines to think with.
 [TheChain](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/TheChain.html)
 
 [TheFourAgreements](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/TheFourAgreements.html)
+
+[Bukowski](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/bukowski.html)
+
