@@ -28,3 +28,4 @@ These are texts: machines to think with.
 
 [Bukowski](http://www.briandegger.uk/ManifestosAndTextualTouchstones/bukowski.html)
 
+[home](http://briandegger.uk)
