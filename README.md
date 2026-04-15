@@ -4,27 +4,27 @@ Some days it's the Desdriata that will get you there, other days it Dunne&Raby.
 
 These are texts: machines to think with.
 
-[BioPunkManifesto](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/BioPunkManifesto.html)
+[BioPunkManifesto](http://www.briandegger.uk/ManifestosAndTextualTouchstones/BioPunkManifesto.html)
 
-[CityAsThinkingMachine](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/CityAsThinkingMachine.html)
+[CityAsThinkingMachine](http://www.briandegger.uk/ManifestosAndTextualTouchstones/CityAsThinkingMachine.html)
 
-[CriticalDesignFAQ](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/CriticalDesignFAQ.html)
+[CriticalDesignFAQ](http://www.briandegger.uk/ManifestosAndTextualTouchstones/CriticalDesignFAQ.html)
 
-[Desiderata](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/Desiderata.html)	
+[Desiderata](http://www.briandegger.uk/ManifestosAndTextualTouchstones/Desiderata.html)	
 
-[FiveThingstoFreeYourselfFrom](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/FiveThingstoFreeYourselfFrom.html)
+[FiveThingstoFreeYourselfFrom](http://www.briandegger.uk/ManifestosAndTextualTouchstones/FiveThingstoFreeYourselfFrom.html)
 
-[IKnowYou](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/IKnowYou.hml)
+[IKnowYou](http://www.briandegger.uk/ManifestosAndTextualTouchstones/IKnowYou.hml)
 
-[NeilDiamond_BlueJeans](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/NeilDiamond_BlueJeans.html)
+[NeilDiamond_BlueJeans](http://www.briandegger.uk/ManifestosAndTextualTouchstones/NeilDiamond_BlueJeans.html)
 
-[PrayerOfSaintFrancis](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/PrayerOfSaintFrancis.html)
+[PrayerOfSaintFrancis](http://www.briandegger.uk/ManifestosAndTextualTouchstones/PrayerOfSaintFrancis.html)
 
-[RestrainedDesign](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/RestrainedDesign.html)
+[RestrainedDesign](http://www.briandegger.uk/ManifestosAndTextualTouchstones/RestrainedDesign.html)
 
-[TheChain](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/TheChain.html)
+[TheChain](http://www.briandegger.uk/ManifestosAndTextualTouchstones/TheChain.html)
 
-[TheFourAgreements](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/TheFourAgreements.html)
+[TheFourAgreements](http://www.briandegger.uk/ManifestosAndTextualTouchstones/TheFourAgreements.html)
 
-[Bukowski](http://www.briandegger.co.uk/ManifestosAndTextualTouchstones/bukowski.html)
+[Bukowski](http://www.briandegger.uk/ManifestosAndTextualTouchstones/bukowski.html)
 
